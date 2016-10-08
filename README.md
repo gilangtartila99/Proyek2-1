@@ -12,6 +12,7 @@ SIGAMAci is based smart bins with an integrated IOT and arduino android device t
 * NodeJS 4.2.6
 * Ionic 1
 * Socket.io 1.4.8
+* Arduino 
 
 ## Installation
 -
