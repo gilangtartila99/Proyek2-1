@@ -5,7 +5,7 @@
 SIGAMAci is based smart bins with an integrated IOT and arduino android device to determine the position of the carrier officer and indicators in realtime garbage, waste management as well as web-based admin system as decision makers by using conversion ip6 network.
 
 ## Pre Requisite
-1. Software
+**Software**
 * Linux Operating System or Windows Operating System
 * MongoDB
 * Express 4.14.0
@@ -14,7 +14,7 @@ SIGAMAci is based smart bins with an integrated IOT and arduino android device t
 * Ionic 1
 * Socket.io 1.4.8
 
-2. Hardware
+**Hardware**
 * Arduino Mega (1)
 * Servo (3)
 * Sensor Ultrasonik (3)
